@@ -20,7 +20,7 @@
 To use `ReqMock` in your project, you can include it in your HTML:
 
 ```html
-<script src="NOT UPLOADED YET"></script>
+<script src="https://raw.githubusercontent.com/PlsGuyDeveloper/ReqMock/main/ReqMock.js"></script>
 ```
 
 ## Usage
