@@ -1,3 +1,5 @@
+![Status](https://badgen.net/badge/ReqMock/Not-Working/Red?icon=github)
+
 
 # ReqMock JavaScript Library
 
